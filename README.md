@@ -1,4 +1,4 @@
-## mTandemloop Screening Test – Full Stack Developer
+## Screening Test – Full Stack Developer
 
 **Name**: Puneetharaj K R
 **Language Used**: Python
