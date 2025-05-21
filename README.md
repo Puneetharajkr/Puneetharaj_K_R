@@ -12,8 +12,9 @@
 
 Each solution is implemented in a separate Python file with clear comments.
 
-**Instructions to Run:**
-Run each script individually using Python:
-	python Program-1.py
-	python Program-2.py
-	................
+## **Instructions to Run:**
+
+* Run each script individually using Python:
+  	python Program-1.py
+  	python Program-2.py
+  	................
